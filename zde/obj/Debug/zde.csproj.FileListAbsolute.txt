@@ -1,0 +1,11 @@
+C:\Development\Coding\C# Project\ZDE\zde\bin\Debug\zde.exe.config
+C:\Development\Coding\C# Project\ZDE\zde\bin\Debug\zde.exe
+C:\Development\Coding\C# Project\ZDE\zde\bin\Debug\zde.pdb
+C:\Development\Coding\C# Project\ZDE\zde\obj\Debug\zde.csproj.AssemblyReference.cache
+C:\Development\Coding\C# Project\ZDE\zde\obj\Debug\zde.csproj.SuggestedBindingRedirects.cache
+C:\Development\Coding\C# Project\ZDE\zde\obj\Debug\zde.zde.resources
+C:\Development\Coding\C# Project\ZDE\zde\obj\Debug\zde.Properties.Resources.resources
+C:\Development\Coding\C# Project\ZDE\zde\obj\Debug\zde.csproj.GenerateResource.cache
+C:\Development\Coding\C# Project\ZDE\zde\obj\Debug\zde.csproj.CoreCompileInputs.cache
+C:\Development\Coding\C# Project\ZDE\zde\obj\Debug\zde.exe
+C:\Development\Coding\C# Project\ZDE\zde\obj\Debug\zde.pdb
