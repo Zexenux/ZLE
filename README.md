@@ -13,9 +13,11 @@ Free Lua IDE, always.
 ## 3 - Open up the file you extracted the ZIP to, and navigate to the following:
 ![image](https://user-images.githubusercontent.com/102251387/166165868-9bccf301-a2eb-4695-b19e-93ac46d32dfe.png)
 
-## 4 - Open the installer, choose where to install ZLE, and you can now code away! 
+## 4 - Open the installer, choose where to install ZLE, and finish up the process.
 ![image](https://user-images.githubusercontent.com/102251387/166165906-ddb2ce0a-6846-46f4-b0fc-2978ab1542e2.png)
 ![image](https://user-images.githubusercontent.com/102251387/166165918-b5a3a092-a2e8-47e8-aba3-39e6789da181.png)
+
+## 5 - Check your desktop for "zle". Open it and code away!
 ![image](https://user-images.githubusercontent.com/102251387/166165935-a187f057-d477-4966-9aad-d3ea9efa7934.png)
 
 
